@@ -1,0 +1,12 @@
+{
+  "$instruction": "⚠️ DO NOT EDIT DIRECTLY. Use the TODO MCP tools (todo_get_tasks, todo_add_tasks, todo_update_tasks, todo_delete_tasks, todo_clear_category) to ensure live VS Code UI synchronization.",
+  "tasks": [
+    {
+      "id": "1792822909961zui4t",
+      "title": "Review blocked/reverted work in extension-output-WebNative.webnative-#1-WebNative.workspaceId-5655fc34389dea8b88beeee69ddde0cb",
+      "category": "Blocked",
+      "dueDate": null,
+      "completed": false
+    }
+  ]
+}
